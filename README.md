@@ -1,6 +1,8 @@
-# movie
+# Movie_app
 
-A new Flutter project.
+A tmdb based movie app, now search for your favourite movies and get to know their poster and their rating.
+
+## I have used providers for this project.
 
 ## Getting Started
 
